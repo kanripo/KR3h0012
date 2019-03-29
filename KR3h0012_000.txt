@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 畫山水賦
-#+DATE: 2019-03-29 21:14:35.733060
+#+DATE: 2019-03-29 21:14:35.762229
 #+PROPERTY: ID KR3h0012
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR3h0012_WYG_000-1a>¶
 　　欽定四庫全書　　　　　子部八¶
